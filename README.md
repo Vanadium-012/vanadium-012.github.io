@@ -1,8 +1,4 @@
----
-layout: default
-title: Joshua L.'s Portfolio
----
-# Joshua Leath's Portfolio
+# Joshua L.'s Portfolio
 I'm a data analyst who loves focusing on environmental science, public health data, transportation, and history. Here's a quick overview of my work.
 ## Projects
 
