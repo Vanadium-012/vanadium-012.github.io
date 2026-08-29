@@ -3,7 +3,7 @@ I'm a data analyst who loves focusing on environmental science, public health da
 ## Projects
 
 ##### Analyzing Community Solar Arrays in Chattanooga, TN
-![Overview of the Study Area](https://github.com/Vanadium-012/Chatt-Community-Solar/blob/main/GIS%20Components/Community-Solar-Analysis-StudyArea.jpg)
+![Overview of the Study Area](GIS%20Components/Community-Solar-Analysis-StudyArea.jpg)
 
 This is an analysis of solar irradiance in Chattanooga, TN, with all climate-related data coming from  National Renewable Energy Labratory/National Labratory of the Rockies.
 
