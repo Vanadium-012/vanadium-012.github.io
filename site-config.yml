@@ -1,0 +1,6 @@
+  title: Joshua L. | Data Analysis Portfolio
+  description: An overview of some of my completed work and projects, going over business intelligence, climate data, and general environmental science.
+  email: joshuajl781@posteo.us
+
+  plugins: - jekyll-remote-theme
+  theme: broccolini/swiss
