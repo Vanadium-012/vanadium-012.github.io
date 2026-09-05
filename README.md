@@ -14,7 +14,10 @@ Assets utilized: *Google Earth Pro, Excel/Libreoffice Calc, QGIS, Tableau Public
 ##### Arkansas Personal Income per County (2019-2023)
 ![Overview of the State of Arkansas' Study Area](/Images/Personal-Income-per-County-Arkansas2019-2023-Github.jpg)
 A general overview of the State of Arkansas and how each of its 75 counties compare to one another in terms of median household income.
-Shapefile data comes from the Arkansas Department of Shared Administrative Services/GIS Office and income data comes from the National Institute on Minority Health and Health Disparities. 
+Shapefile data comes from the Arkansas Department of Shared Administrative Services/GIS Office and income data comes from the National Institute on Minority Health and Health Disparities.
+Further, here is another visualization going over homelessness by ethnicity and region from 2022 data, which indeed affects food security for the state.
+![Homelessness by Ethnicity & Region, 2022](/Images/Homelessness%20by%20Ethnicity%20%26%20Region.png)
+
 You can view it on [ArcGIS Online](https://www.arcgis.com/home/item.html?id=f34d5b2ceeb4431f949894267799245c#overview).
 
 Assets utilized: *QGIS, Excel/Libreoffice Calc, ArcGIS*
